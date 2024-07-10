@@ -1,0 +1,9 @@
+{
+  "id": "3025d50d-0902-4c24-b06c-46f42d2a69ba",
+  "alias": "ScdlSpOnlineLibraryLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}

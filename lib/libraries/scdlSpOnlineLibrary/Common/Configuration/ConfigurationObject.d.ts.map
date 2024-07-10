@@ -1,0 +1,1 @@
+{"version":3,"file":"ConfigurationObject.d.ts","sourceRoot":"","sources":["../../../../../src/libraries/scdlSpOnlineLibrary/Common/Configuration/ConfigurationObject.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,wBAAwB,EAAE,MAAM,4BAA4B,CAAC;AAEtE;IACI,SAAS,CAAC,uBAAuB,EAAG,wBAAwB,CAAC;IAE7D,SAAS,aAAa,UAAU,EAAG,wBAAwB;IAI9C,YAAY,IAAK,OAAO,CAAC,IAAI,CAAC;CAG9C"}
